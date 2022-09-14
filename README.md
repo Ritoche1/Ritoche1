@@ -1,7 +1,7 @@
 # Bonjour👋
 ## Je m'appelle Antoine Descamps<br>Je suis étudiant à Epitech actuellement en 3ème Année
 
-Vous pourrez voir ici les projets que j'ai réaliser et que j'ai décider de mettre en public.<br>
+Vous pourrez voir ici les projets que j'ai réalisé et que j'ai décidé de mettre en public.<br>
 Ainsi que me retrouver sur d'autres plateformes
 
 #### Actuellement :
