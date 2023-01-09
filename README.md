@@ -5,7 +5,8 @@ Vous pourrez voir ici les projets que j'ai réalisé et que j'ai décidé de met
 Ainsi que me retrouver sur d'autres plateformes
 
 #### Actuellement :
-  je suis à la recherche d'un temps partiel de Mi Septembre 2022 à fin Mars 2023
+  je suis actuellement en poste de stagiaire chez Ankama. jusqu'en avril.
+  De plus je recherche d'un stage de Avril à Juillet 2023.
 
 ### Quelques projets que j'ai réalisé : 
   - [FuelBot](https://github.com/Ritoche1/FuelBot)
