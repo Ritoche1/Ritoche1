@@ -1,4 +1,4 @@
-# Hello, I'm Antoine Descamps 👋
+# Hello, I'm Antoine Descamps 👋  
 Welcome to my GitHub page!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ritoche1&color=brightgreen)
@@ -11,14 +11,27 @@ I am currently a 5th-year student at Epitech, specializing in Computer Science. 
 - **Epitech Projects**: Collaborating on diverse tech projects ranging from software development to system administration.
 - **Echo**: Revolutionizing the way we share music with friends through Echo. Our application lets you connect your Spotify listening activities to create a shared musical experience, no matter where you are. Lead a music session by sharing your favorite tracks, or join friends and explore their musical tastes. Echo synchronizes your streams, letting you share the vibe together. Initially started as an Epitech Innovation Project (EIP), Echo is currently under active development. [Learn more about Echo](https://echo-app.fr/)
 
-## My Public Projects
-Here are a few projects I've developed and made publicly available:
+## Project Highlights
+
+### Quiz Generator  
+An interactive web application to create and customize quizzes easily thanks to MistralAI api.  
+- Live demo: [https://ritoche.site](https://ritoche.site)  
+- Source code: [GitHub - Ritoche1/Quiz-Generator](https://github.com/Ritoche1/Quiz-Generator)  
+This project focuses on user-friendly quiz creation with customizable questions and answers, built with modern web technologies.
+
+### Baomiao - Marketplace in Progress  
+A marketplace project designed to offer a streamlined platform for buying and selling.  
+- Preview: [https://baomiao.ritoche.site](https://baomiao.ritoche.site)  
+Baomiao aims to simplify transactions of cat's snack with a clean UI and efficient backend logic, currently under active development.
+
+## My Public Projects  
+Here are a few other projects I've developed and made publicly available:
 - [FuelBot](https://github.com/Ritoche1/FuelBot) - A bot designed to search and monitor fuel prices and notify users of the best times to purchase fuel.
 - [QrcodePdf_list_generator](https://github.com/Ritoche1/QrcodePdf_list_generator) - A utility tool for generating PDFs with embedded QR codes for easy access and sharing.
 - [DailyBot](https://github.com/Ritoche1/DailyBot) - A versatile bot that posts daily content on various subjects, including news, wallpapers, space, music, and more.
 - [L-ArcheWebsite](https://github.com/Ritoche1/L-ArcheWebsite) - An early website designed to showcase all the postCard of l'Arche.
 
-## Skills
+## Skills  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
