@@ -15,7 +15,7 @@ I am currently a 5th-year student at Epitech, specializing in Computer Science. 
 
 ### Quiz Generator  
 An interactive web application to create and customize quizzes easily thanks to MistralAI api.  
-- Live demo: [https://ritoche.site](https://ritoche.site)  
+- Live demo: [https://quiz.ritoche.site](https://quiz.ritoche.site)  
 - Source code: [GitHub - Ritoche1/Quiz-Generator](https://github.com/Ritoche1/Quiz-Generator)  
 This project focuses on user-friendly quiz creation with customizable questions and answers, built with modern web technologies.
 
