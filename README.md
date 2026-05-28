@@ -4,12 +4,11 @@ Welcome to my GitHub page!
 ![Profile Views](https://komarev.com/ghpvc/?username=Ritoche1&color=brightgreen)
 
 ## About Me
-I am a Fullstack Engineer, graduated from Epitech (Bac+5), with solid experience in NestJS, TypeScript, and React. I previously pursued a Management Certificate at McGill University, Montreal, as part of my year abroad. I recently worked at Datakeen, where I contributed to robust backend architectures and modern development practices (clean code, Agile, CI/CD). I am currently looking for a **CDI or CDD** position and am **immediately available**.
+I am a Fullstack Engineer, graduated from Epitech (Bac+5), with solid experience in NestJS, TypeScript, and React. I previously pursued a Management Certificate at McGill University, Montreal, as part of my year abroad. I recently worked at Datakeen, where I contributed to robust backend architectures and modern development practices (clean code, Agile, CI/CD). I am currently working at **[Keyboon](https://www.linkedin.com/company/keyboon/posts/?feedView=all)**.
 
 ## What I'm currently working on
 - **Personal Infrastructure**: Self-hosting and automating my homelab with Docker, Portainer, Nginx Proxy Manager, and n8n with monitoring and updown alert tools.
 - **Open Source Projects**: Continuously improving and maintaining my public projects.
-- **Certification** : currently learning for the French MongoDB certification
 
 ## Project Highlights
 
