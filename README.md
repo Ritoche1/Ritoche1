@@ -9,6 +9,7 @@ I am a Fullstack Engineer, graduated from Epitech (Bac+5), with solid experience
 ## What I'm currently working on
 - **Personal Infrastructure**: Self-hosting and automating my homelab with Docker, Portainer, Nginx Proxy Manager, and n8n with monitoring and updown alert tools.
 - **Open Source Projects**: Continuously improving and maintaining my public projects.
+- **About me**: If you want to know more about me : [https://ritoche.site](https://ritoche.site)
 
 ## Project Highlights
 
