@@ -4,12 +4,14 @@ Welcome to my GitHub page!
 ![Profile Views](https://komarev.com/ghpvc/?username=Ritoche1&color=brightgreen)
 
 ## About Me
-I am a Fullstack Engineer, graduated from Epitech (Bac+5), with solid experience in NestJS, TypeScript, and React. I previously pursued a Management Certificate at McGill University, Montreal, as part of my year abroad. I recently worked at Datakeen, where I contributed to robust backend architectures and modern development practices (clean code, Agile, CI/CD). I am currently working at **[Keyboon](https://www.linkedin.com/company/keyboon/posts/?feedView=all)**.
+I am a **Backend Developer at [Keyboon](https://www.linkedin.com/company/keyboon/)**, where I build internal tools and work on software architecture. I graduated from Epitech (Bac+5) and have solid experience with NestJS, TypeScript and React. During my year abroad I earned a Management Certificate at McGill University, Montreal. Before Keyboon, I worked at Datakeen, where I contributed to robust backend architectures and modern development practices (clean code, Agile, CI/CD).
 
 ## What I'm currently working on
-- **Personal Infrastructure**: Self-hosting and automating my homelab with Docker, Portainer, Nginx Proxy Manager, and n8n with monitoring and updown alert tools.
-- **Open Source Projects**: Continuously improving and maintaining my public projects.
-- **About me**: If you want to know more about me : [https://ritoche.site](https://ritoche.site)
+- **At Keyboon**: Designing and developing internal tools, and shaping the software architecture of the backend (NestJS, TypeScript).
+- **Verlinghem Loisirs**: Redesigning the website of a local association: scoping, information architecture and a new site built with Astro.
+- **Personal Infrastructure**: Self-hosting and automating my homelab with Docker, Portainer, Nginx Proxy Manager and n8n, with monitoring and updown alerts.
+- **Side projects**: Self-hosted tools such as an SMS manager (NestJS + React + Docker on top of android-sms-gateway) and a WeChat ↔ WhatsApp message bridge.
+- **About me**: If you want to know more about me: [https://ritoche.site](https://ritoche.site)
 
 ## Project Highlights
 
@@ -22,7 +24,7 @@ This project focuses on user-friendly quiz creation with customizable questions 
 ### Baomiao - Marketplace in Progress
 A marketplace project designed to offer a streamlined platform for buying and selling.
 - Preview: [https://baomiao.ritoche.site](https://baomiao.ritoche.site)
-Baomiao aims to simplify transactions of cat's snack with a clean UI and efficient backend logic, currently under active development.
+Baomiao aims to simplify buying and selling cat snacks with a clean UI and efficient backend logic, currently under active development.
 
 ### Studio Orée  
 A platform and digital showcase built for Studio Orée, focused on delivering a clean, elegant, and modern web experience.  
@@ -45,6 +47,7 @@ Here are a few other projects I've developed and made publicly available:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
