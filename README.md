@@ -4,13 +4,15 @@ Welcome to my GitHub page!
 ![Profile Views](https://komarev.com/ghpvc/?username=Ritoche1&color=brightgreen)
 
 ## About Me
-I am a **Backend Developer at [Keyboon](https://www.linkedin.com/company/keyboon/)**, where I build internal tools and work on software architecture. I graduated from Epitech (Bac+5) and have solid experience with NestJS, TypeScript and React. During my year abroad I earned a Management Certificate at McGill University, Montreal. Before Keyboon, I worked at Datakeen, where I contributed to robust backend architectures and modern development practices (clean code, Agile, CI/CD).
+I am a **Backend Developer at [Keyboon](https://www.linkedin.com/company/keyboon/)**, where I build internal tools and design backend architecture: microservices, NestJS services and AWS infrastructure. I graduated from Epitech (Bac+5) and have solid experience with NestJS, TypeScript and React. During my year abroad I earned a Management Certificate at McGill University, Montreal. Before Keyboon, I worked at Datakeen, where I contributed to robust backend architectures and modern development practices (clean code, Agile, CI/CD).
 
 ## What I'm currently working on
-- **At Keyboon**: Designing and developing internal tools, and shaping the software architecture of the backend (NestJS, TypeScript).
+- **At Keyboon**: Building internal tools and designing the backend architecture, from NestJS services to microservices on AWS.
 - **Verlinghem Loisirs**: Redesigning the website of a local association: scoping, information architecture and a new site built with Astro.
+- **Expiry Guard**: A TypeScript application, currently under active development.
+- **Studio Orée**: Ongoing development and improvements of the client website.
 - **Personal Infrastructure**: Self-hosting and automating my homelab with Docker, Portainer, Nginx Proxy Manager and n8n, with monitoring and updown alerts.
-- **Side projects**: Self-hosted tools such as an SMS manager (NestJS + React + Docker on top of android-sms-gateway) and a WeChat ↔ WhatsApp message bridge.
+- **Next up**: I may pick up a self-hosted SMS manager (NestJS + React + Docker on top of android-sms-gateway) or a WeChat ↔ WhatsApp message bridge.
 - **About me**: If you want to know more about me: [https://ritoche.site](https://ritoche.site)
 
 ## Project Highlights
@@ -54,6 +56,7 @@ Here are a few other projects I've developed and made publicly available:
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
