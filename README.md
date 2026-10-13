@@ -9,7 +9,7 @@ I am a **Backend Developer at [Keyboon](https://www.linkedin.com/company/keyboon
 ## What I'm currently working on
 - **At Keyboon**: Building internal tools and designing the backend architecture, from NestJS services to microservices on AWS.
 - **Verlinghem Loisirs**: Redesigning the website of a local association: scoping, information architecture and a new site built with Astro.
-- **Expiry Guard**: A TypeScript application, currently under active development.
+- **Expiry Guard**: An internal management tool for supermarkets, currently under active development.
 - **Studio Orée**: Ongoing development and improvements of the client website.
 - **Personal Infrastructure**: Self-hosting and automating my homelab with Docker, Portainer, Nginx Proxy Manager and n8n, with monitoring and updown alerts.
 - **Next up**: I may pick up a self-hosted SMS manager (NestJS + React + Docker on top of android-sms-gateway) or a WeChat ↔ WhatsApp message bridge.
